@@ -1,0 +1,284 @@
+@media screen and (min-width:350px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% 10%);
+    }
+}
+@media screen and (min-width:410px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% 3%);
+    }
+}
+@media screen and (min-width:485px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -4%);
+    }
+    .banner .description span{
+        width: 2px;
+        height: 80px;
+    }
+}
+@media screen and (min-width:556px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -8%);
+    }
+}
+@media screen and (min-width:595px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -13%);
+    }
+}
+@media screen and (min-width:640px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -18%);
+    }
+    .banner .description{
+        width: 70%;
+    }
+}
+@media screen and (min-width:685px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -23%);
+    }
+}
+@media screen and (min-width:729px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -28%);
+    }
+}
+@media screen and (min-width:771px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -34%);
+    }
+    .banner .description{
+        width: 60%;
+    }
+    .banner .description h2{
+        font-size: 70px;
+        letter-spacing: 10px;
+    }
+    .banner .description p{
+        font-size: 30px;
+    }
+}
+@media screen and (min-width:823px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -40%);
+    }
+}
+@media screen and (min-width:871px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -46%);
+    }
+}
+@media screen and (min-width:920px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -52%);
+    }
+}
+/*
+@media screen and (min-width:950px){
+    header .toggle-btn{
+        display: none;
+    }
+    header{
+        width: 100%;
+        height: 50px;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 1;
+    }
+    nav{
+        position: relative;
+
+        background: rgba(0,0,0,0.5);
+        transition: all 0.5s;
+
+        opacity:1;
+        transform: translateY(0px);
+    }
+    nav .menu{
+        position: relative;
+        transform: translateY(0);
+        
+        display: flex;
+    }
+    nav .menu li a{
+        display: inline-block;
+        opacity: 1;
+    }
+    nav .menu li{
+        text-align: center;
+        width: 150px;
+    }
+    
+}
+*/
+@media screen and (min-width:968px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -58%);
+    }
+}
+@media screen and (min-width:1017px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -64%);
+    }
+    .banner .description{
+        width: 50%;
+    }
+    .banner .description h2{
+        font-size: 70px;
+        letter-spacing: 10px;
+    }
+    .banner .description p{
+        font-size: 30px;
+    }
+    .banner .description span{
+        position: absolute;
+        left:0;
+        top: 55%;
+        transform: translateX(-50%) translateY(-50%);
+        width: 2px;
+        height: 80px;
+        background: #B94A11;
+    }
+}
+@media screen and (min-width:1064px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -70%);
+    }
+}
+@media screen and (min-width:1111px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -75%);
+    }
+}
+@media screen and (min-width:1150px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -81%);
+    }
+}
+@media screen and (min-width:1195px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -87%);
+    }
+}
+@media screen and (min-width:1241px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -93%);
+    }
+}
+@media screen and (min-width:1285px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -99%);
+    }
+}
+@media screen and (min-width:1333px){
+    .banner{
+        width: 100%;
+        margin: auto;
+        position: relative;
+    
+        clip-path: circle(100% at 51% -105%);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
