@@ -31,6 +31,15 @@
     </div>
 </header>
 <body>
+    <div class="social-down">
+        <div class="social-fixed">
+           <a href="#" class="icon-facebook"></a>
+           <a href="#" class="icon-twitter"></a>
+           <a href="#" class="icon-mail"></a>
+           <a href="#" class="icon-whatsapp"></a>
+           <a href="#" class="icon-phone"></a>
+        </div>
+    </div>
     <section class="banner">
     <div class="background"></div>
     <div class="description">
@@ -134,7 +143,14 @@
             else{
                 $('header').removeClass('black');
             }
-        })
+        });
+        $(window).scroll(function(){
+            if($(window).scrollTop()>500){
+                $('.social-down').fadeIn();
+            }else{
+                $('.social-down').fadeOut();
+            }
+        });
     })
 </script>
 </body>
